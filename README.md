@@ -10,7 +10,7 @@ Cleaned things up first:
 - Created an age column 
 - Combined education levels into simpler groups (Undergraduate, Graduate, Postgraduate)
 
-**Finding patterns 
+#Finding patterns 
 - Rich people spend more. Income and total spending had a 0.79 correlation.
 
 #Grouped similar customers together:
