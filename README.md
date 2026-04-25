@@ -16,7 +16,7 @@ Cleaned things up first:
 #Grouped similar customers together:
 Used K-Means clustering. After testing different numbers, 4 groups made the most sense.
 
-## group wise Customers?
+## group wise Customers
 
 Group 0: High income, spend a lot
 Group 1: Middle income, average spenders  
